@@ -13,5 +13,8 @@
   ],
   "author": "wuwenshun",
   "license": "GUN",
-  "git repository":"https://github.com/wwswuwenshun/NodejsMongodblog"
+  "git repository": "https://github.com/wwswuwenshun/NodejsMongodblog",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
